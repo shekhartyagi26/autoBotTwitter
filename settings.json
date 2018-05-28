@@ -1,0 +1,18 @@
+{
+  "twitter_api": {
+    "consumer_key": "iv5aG6LOLXSQ73aExokvP2ZUO",
+    "consumer_secret": "2agdOXtC4WaYTRbuJuSVXc7BP1qaHNwFn9B6B12FfjPDcfDUvd",
+    "access_token_key": "1000090496541364231-4BW2LjB4d0rTAdFFEOPJQRlwKwvP9E",
+    "access_token_secret": "6ZKiwWjmCkcD5rHJVPWkDwuff8DGWGcYK900Gbm4u809G"
+  },
+  "database": {
+    "url": "mongodb://localhost:27017/test",
+    "collection": "users"
+  },
+  "bot_parameters": {
+    "query": "training",
+    "lang": "en",
+    "replyOnceEveryXMinutes": 15,
+    "replyToTweetsAtLeastXMinutesOld": 5
+  }
+}
