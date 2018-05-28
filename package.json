@@ -8,6 +8,8 @@
   "scripts": {
     "start": "node server.js"
   },
+  "repository": "https://github.com/shekhartyagi26/autoBotTwitter",
+  "author": "Shekhar Tyagi <shekhartyagi26@gmail.com>",
   "main": "server.js",
   "dependencies": {
     "bluebird": "3.3.4",
